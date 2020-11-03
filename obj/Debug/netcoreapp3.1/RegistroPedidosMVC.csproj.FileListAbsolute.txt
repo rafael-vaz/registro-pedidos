@@ -1,0 +1,114 @@
+C:\Users\ferre\Desktop\RegistroPedidosMVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ferre\Desktop\RegistroPedidosMVC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ferre\Desktop\RegistroPedidosMVC\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ferre\Desktop\RegistroPedidosMVC\bin\Debug\netcoreapp3.1\RegistroPedidosMVC.exe
+C:\Users\ferre\Desktop\RegistroPedidosMVC\bin\Debug\netcoreapp3.1\RegistroPedidosMVC.deps.json
+C:\Users\ferre\Desktop\RegistroPedidosMVC\bin\Debug\netcoreapp3.1\RegistroPedidosMVC.runtimeconfig.json
+C:\Users\ferre\Desktop\RegistroPedidosMVC\bin\Debug\netcoreapp3.1\RegistroPedidosMVC.runtimeconfig.dev.json
+C:\Users\ferre\Desktop\RegistroPedidosMVC\bin\Debug\netcoreapp3.1\RegistroPedidosMVC.dll
+C:\Users\ferre\Desktop\RegistroPedidosMVC\bin\Debug\netcoreapp3.1\RegistroPedidosMVC.pdb
+C:\Users\ferre\Desktop\RegistroPedidosMVC\bin\Debug\netcoreapp3.1\RegistroPedidosMVC.Views.dll
+C:\Users\ferre\Desktop\RegistroPedidosMVC\bin\Debug\netcoreapp3.1\RegistroPedidosMVC.Views.pdb
+C:\Users\ferre\Desktop\RegistroPedidosMVC\obj\Debug\netcoreapp3.1\RegistroPedidosMVC.csprojAssemblyReference.cache
+C:\Users\ferre\Desktop\RegistroPedidosMVC\obj\Debug\netcoreapp3.1\RegistroPedidosMVC.AssemblyInfoInputs.cache
+C:\Users\ferre\Desktop\RegistroPedidosMVC\obj\Debug\netcoreapp3.1\RegistroPedidosMVC.AssemblyInfo.cs
+C:\Users\ferre\Desktop\RegistroPedidosMVC\obj\Debug\netcoreapp3.1\RegistroPedidosMVC.csproj.CoreCompileInputs.cache
+C:\Users\ferre\Desktop\RegistroPedidosMVC\obj\Debug\netcoreapp3.1\RegistroPedidosMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ferre\Desktop\RegistroPedidosMVC\obj\Debug\netcoreapp3.1\RegistroPedidosMVC.RazorAssemblyInfo.cache
+C:\Users\ferre\Desktop\RegistroPedidosMVC\obj\Debug\netcoreapp3.1\RegistroPedidosMVC.RazorAssemblyInfo.cs
+C:\Users\ferre\Desktop\RegistroPedidosMVC\obj\Debug\netcoreapp3.1\RegistroPedidosMVC.TagHelpers.input.cache
+C:\Users\ferre\Desktop\RegistroPedidosMVC\obj\Debug\netcoreapp3.1\RegistroPedidosMVC.TagHelpers.output.cache
+C:\Users\ferre\Desktop\RegistroPedidosMVC\obj\Debug\netcoreapp3.1\RegistroPedidosMVC.RazorCoreGenerate.cache
+C:\Users\ferre\Desktop\RegistroPedidosMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ferre\Desktop\RegistroPedidosMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ferre\Desktop\RegistroPedidosMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ferre\Desktop\RegistroPedidosMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ferre\Desktop\RegistroPedidosMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ferre\Desktop\RegistroPedidosMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ferre\Desktop\RegistroPedidosMVC\obj\Debug\netcoreapp3.1\RegistroPedidosMVC.RazorTargetAssemblyInfo.cache
+C:\Users\ferre\Desktop\RegistroPedidosMVC\obj\Debug\netcoreapp3.1\RegistroPedidosMVC.RazorTargetAssemblyInfo.cs
+C:\Users\ferre\Desktop\RegistroPedidosMVC\obj\Debug\netcoreapp3.1\RegistroPedidosMVC.Views.pdb
+C:\Users\ferre\Desktop\RegistroPedidosMVC\obj\Debug\netcoreapp3.1\staticwebassets\RegistroPedidosMVC.StaticWebAssets.Manifest.cache
+C:\Users\ferre\Desktop\RegistroPedidosMVC\obj\Debug\netcoreapp3.1\staticwebassets\RegistroPedidosMVC.StaticWebAssets.xml
+C:\Users\ferre\Desktop\RegistroPedidosMVC\obj\Debug\netcoreapp3.1\RegistroPedidosMVC.dll
+C:\Users\ferre\Desktop\RegistroPedidosMVC\obj\Debug\netcoreapp3.1\RegistroPedidosMVC.pdb
+C:\Users\ferre\Desktop\RegistroPedidosMVC\obj\Debug\netcoreapp3.1\RegistroPedidosMVC.genruntimeconfig.cache
+C:\Users\ferre\Desktop\RegistroPedidosMVC\obj\Debug\netcoreapp3.1\RegistroPedidosMVC.csproj.CopyComplete
+C:\Users\ferre\Desktop\RegistroPedidosMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Listar.cshtml.g.cs
+C:\Users\ferre\Desktop\RegistroPedidosMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Concluido.cshtml.g.cs
+C:\Users\ferre\Google Drive\Cursos e Certificados\Cursos Técnicos\Informática para Internet\Módulo A\UC 03 - Codificar Aplicações Web\Atividade 02\RegistroPedidosMVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ferre\Google Drive\Cursos e Certificados\Cursos Técnicos\Informática para Internet\Módulo A\UC 03 - Codificar Aplicações Web\Atividade 02\RegistroPedidosMVC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ferre\Google Drive\Cursos e Certificados\Cursos Técnicos\Informática para Internet\Módulo A\UC 03 - Codificar Aplicações Web\Atividade 02\RegistroPedidosMVC\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ferre\Google Drive\Cursos e Certificados\Cursos Técnicos\Informática para Internet\Módulo A\UC 03 - Codificar Aplicações Web\Atividade 02\RegistroPedidosMVC\bin\Debug\netcoreapp3.1\RegistroPedidosMVC.exe
+C:\Users\ferre\Google Drive\Cursos e Certificados\Cursos Técnicos\Informática para Internet\Módulo A\UC 03 - Codificar Aplicações Web\Atividade 02\RegistroPedidosMVC\bin\Debug\netcoreapp3.1\RegistroPedidosMVC.deps.json
+C:\Users\ferre\Google Drive\Cursos e Certificados\Cursos Técnicos\Informática para Internet\Módulo A\UC 03 - Codificar Aplicações Web\Atividade 02\RegistroPedidosMVC\bin\Debug\netcoreapp3.1\RegistroPedidosMVC.runtimeconfig.json
+C:\Users\ferre\Google Drive\Cursos e Certificados\Cursos Técnicos\Informática para Internet\Módulo A\UC 03 - Codificar Aplicações Web\Atividade 02\RegistroPedidosMVC\bin\Debug\netcoreapp3.1\RegistroPedidosMVC.runtimeconfig.dev.json
+C:\Users\ferre\Google Drive\Cursos e Certificados\Cursos Técnicos\Informática para Internet\Módulo A\UC 03 - Codificar Aplicações Web\Atividade 02\RegistroPedidosMVC\bin\Debug\netcoreapp3.1\RegistroPedidosMVC.dll
+C:\Users\ferre\Google Drive\Cursos e Certificados\Cursos Técnicos\Informática para Internet\Módulo A\UC 03 - Codificar Aplicações Web\Atividade 02\RegistroPedidosMVC\bin\Debug\netcoreapp3.1\RegistroPedidosMVC.pdb
+C:\Users\ferre\Google Drive\Cursos e Certificados\Cursos Técnicos\Informática para Internet\Módulo A\UC 03 - Codificar Aplicações Web\Atividade 02\RegistroPedidosMVC\bin\Debug\netcoreapp3.1\RegistroPedidosMVC.Views.dll
+C:\Users\ferre\Google Drive\Cursos e Certificados\Cursos Técnicos\Informática para Internet\Módulo A\UC 03 - Codificar Aplicações Web\Atividade 02\RegistroPedidosMVC\bin\Debug\netcoreapp3.1\RegistroPedidosMVC.Views.pdb
+C:\Users\ferre\Google Drive\Cursos e Certificados\Cursos Técnicos\Informática para Internet\Módulo A\UC 03 - Codificar Aplicações Web\Atividade 02\RegistroPedidosMVC\obj\Debug\netcoreapp3.1\RegistroPedidosMVC.csprojAssemblyReference.cache
+C:\Users\ferre\Google Drive\Cursos e Certificados\Cursos Técnicos\Informática para Internet\Módulo A\UC 03 - Codificar Aplicações Web\Atividade 02\RegistroPedidosMVC\obj\Debug\netcoreapp3.1\RegistroPedidosMVC.AssemblyInfoInputs.cache
+C:\Users\ferre\Google Drive\Cursos e Certificados\Cursos Técnicos\Informática para Internet\Módulo A\UC 03 - Codificar Aplicações Web\Atividade 02\RegistroPedidosMVC\obj\Debug\netcoreapp3.1\RegistroPedidosMVC.AssemblyInfo.cs
+C:\Users\ferre\Google Drive\Cursos e Certificados\Cursos Técnicos\Informática para Internet\Módulo A\UC 03 - Codificar Aplicações Web\Atividade 02\RegistroPedidosMVC\obj\Debug\netcoreapp3.1\RegistroPedidosMVC.csproj.CoreCompileInputs.cache
+C:\Users\ferre\Google Drive\Cursos e Certificados\Cursos Técnicos\Informática para Internet\Módulo A\UC 03 - Codificar Aplicações Web\Atividade 02\RegistroPedidosMVC\obj\Debug\netcoreapp3.1\RegistroPedidosMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ferre\Google Drive\Cursos e Certificados\Cursos Técnicos\Informática para Internet\Módulo A\UC 03 - Codificar Aplicações Web\Atividade 02\RegistroPedidosMVC\obj\Debug\netcoreapp3.1\RegistroPedidosMVC.RazorAssemblyInfo.cache
+C:\Users\ferre\Google Drive\Cursos e Certificados\Cursos Técnicos\Informática para Internet\Módulo A\UC 03 - Codificar Aplicações Web\Atividade 02\RegistroPedidosMVC\obj\Debug\netcoreapp3.1\RegistroPedidosMVC.RazorAssemblyInfo.cs
+C:\Users\ferre\Google Drive\Cursos e Certificados\Cursos Técnicos\Informática para Internet\Módulo A\UC 03 - Codificar Aplicações Web\Atividade 02\RegistroPedidosMVC\obj\Debug\netcoreapp3.1\RegistroPedidosMVC.TagHelpers.input.cache
+C:\Users\ferre\Google Drive\Cursos e Certificados\Cursos Técnicos\Informática para Internet\Módulo A\UC 03 - Codificar Aplicações Web\Atividade 02\RegistroPedidosMVC\obj\Debug\netcoreapp3.1\RegistroPedidosMVC.TagHelpers.output.cache
+C:\Users\ferre\Google Drive\Cursos e Certificados\Cursos Técnicos\Informática para Internet\Módulo A\UC 03 - Codificar Aplicações Web\Atividade 02\RegistroPedidosMVC\obj\Debug\netcoreapp3.1\RegistroPedidosMVC.RazorCoreGenerate.cache
+C:\Users\ferre\Google Drive\Cursos e Certificados\Cursos Técnicos\Informática para Internet\Módulo A\UC 03 - Codificar Aplicações Web\Atividade 02\RegistroPedidosMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Concluido.cshtml.g.cs
+C:\Users\ferre\Google Drive\Cursos e Certificados\Cursos Técnicos\Informática para Internet\Módulo A\UC 03 - Codificar Aplicações Web\Atividade 02\RegistroPedidosMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ferre\Google Drive\Cursos e Certificados\Cursos Técnicos\Informática para Internet\Módulo A\UC 03 - Codificar Aplicações Web\Atividade 02\RegistroPedidosMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Listar.cshtml.g.cs
+C:\Users\ferre\Google Drive\Cursos e Certificados\Cursos Técnicos\Informática para Internet\Módulo A\UC 03 - Codificar Aplicações Web\Atividade 02\RegistroPedidosMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ferre\Google Drive\Cursos e Certificados\Cursos Técnicos\Informática para Internet\Módulo A\UC 03 - Codificar Aplicações Web\Atividade 02\RegistroPedidosMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ferre\Google Drive\Cursos e Certificados\Cursos Técnicos\Informática para Internet\Módulo A\UC 03 - Codificar Aplicações Web\Atividade 02\RegistroPedidosMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ferre\Google Drive\Cursos e Certificados\Cursos Técnicos\Informática para Internet\Módulo A\UC 03 - Codificar Aplicações Web\Atividade 02\RegistroPedidosMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ferre\Google Drive\Cursos e Certificados\Cursos Técnicos\Informática para Internet\Módulo A\UC 03 - Codificar Aplicações Web\Atividade 02\RegistroPedidosMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ferre\Google Drive\Cursos e Certificados\Cursos Técnicos\Informática para Internet\Módulo A\UC 03 - Codificar Aplicações Web\Atividade 02\RegistroPedidosMVC\obj\Debug\netcoreapp3.1\RegistroPedidosMVC.RazorTargetAssemblyInfo.cache
+C:\Users\ferre\Google Drive\Cursos e Certificados\Cursos Técnicos\Informática para Internet\Módulo A\UC 03 - Codificar Aplicações Web\Atividade 02\RegistroPedidosMVC\obj\Debug\netcoreapp3.1\RegistroPedidosMVC.RazorTargetAssemblyInfo.cs
+C:\Users\ferre\Google Drive\Cursos e Certificados\Cursos Técnicos\Informática para Internet\Módulo A\UC 03 - Codificar Aplicações Web\Atividade 02\RegistroPedidosMVC\obj\Debug\netcoreapp3.1\RegistroPedidosMVC.Views.pdb
+C:\Users\ferre\Google Drive\Cursos e Certificados\Cursos Técnicos\Informática para Internet\Módulo A\UC 03 - Codificar Aplicações Web\Atividade 02\RegistroPedidosMVC\obj\Debug\netcoreapp3.1\staticwebassets\RegistroPedidosMVC.StaticWebAssets.Manifest.cache
+C:\Users\ferre\Google Drive\Cursos e Certificados\Cursos Técnicos\Informática para Internet\Módulo A\UC 03 - Codificar Aplicações Web\Atividade 02\RegistroPedidosMVC\obj\Debug\netcoreapp3.1\staticwebassets\RegistroPedidosMVC.StaticWebAssets.xml
+C:\Users\ferre\Google Drive\Cursos e Certificados\Cursos Técnicos\Informática para Internet\Módulo A\UC 03 - Codificar Aplicações Web\Atividade 02\RegistroPedidosMVC\obj\Debug\netcoreapp3.1\RegistroPedidosMVC.dll
+C:\Users\ferre\Google Drive\Cursos e Certificados\Cursos Técnicos\Informática para Internet\Módulo A\UC 03 - Codificar Aplicações Web\Atividade 02\RegistroPedidosMVC\obj\Debug\netcoreapp3.1\RegistroPedidosMVC.pdb
+C:\Users\ferre\Google Drive\Cursos e Certificados\Cursos Técnicos\Informática para Internet\Módulo A\UC 03 - Codificar Aplicações Web\Atividade 02\RegistroPedidosMVC\obj\Debug\netcoreapp3.1\RegistroPedidosMVC.genruntimeconfig.cache
+C:\Users\ferre\Google Drive\Cursos e Certificados\Cursos Técnicos\Informática para Internet\Módulo A\UC 03 - Codificar Aplicações Web\Atividade 02\RegistroPedidosMVC\obj\Debug\netcoreapp3.1\RegistroPedidosMVC.csproj.CopyComplete
+C:\Users\ferre\Desktop\registro-pedidos\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ferre\Desktop\registro-pedidos\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ferre\Desktop\registro-pedidos\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ferre\Desktop\registro-pedidos\bin\Debug\netcoreapp3.1\RegistroPedidosMVC.exe
+C:\Users\ferre\Desktop\registro-pedidos\bin\Debug\netcoreapp3.1\RegistroPedidosMVC.deps.json
+C:\Users\ferre\Desktop\registro-pedidos\bin\Debug\netcoreapp3.1\RegistroPedidosMVC.runtimeconfig.json
+C:\Users\ferre\Desktop\registro-pedidos\bin\Debug\netcoreapp3.1\RegistroPedidosMVC.runtimeconfig.dev.json
+C:\Users\ferre\Desktop\registro-pedidos\bin\Debug\netcoreapp3.1\RegistroPedidosMVC.dll
+C:\Users\ferre\Desktop\registro-pedidos\bin\Debug\netcoreapp3.1\RegistroPedidosMVC.pdb
+C:\Users\ferre\Desktop\registro-pedidos\bin\Debug\netcoreapp3.1\RegistroPedidosMVC.Views.dll
+C:\Users\ferre\Desktop\registro-pedidos\bin\Debug\netcoreapp3.1\RegistroPedidosMVC.Views.pdb
+C:\Users\ferre\Desktop\registro-pedidos\obj\Debug\netcoreapp3.1\RegistroPedidosMVC.csprojAssemblyReference.cache
+C:\Users\ferre\Desktop\registro-pedidos\obj\Debug\netcoreapp3.1\RegistroPedidosMVC.AssemblyInfoInputs.cache
+C:\Users\ferre\Desktop\registro-pedidos\obj\Debug\netcoreapp3.1\RegistroPedidosMVC.AssemblyInfo.cs
+C:\Users\ferre\Desktop\registro-pedidos\obj\Debug\netcoreapp3.1\RegistroPedidosMVC.csproj.CoreCompileInputs.cache
+C:\Users\ferre\Desktop\registro-pedidos\obj\Debug\netcoreapp3.1\RegistroPedidosMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ferre\Desktop\registro-pedidos\obj\Debug\netcoreapp3.1\RegistroPedidosMVC.RazorAssemblyInfo.cache
+C:\Users\ferre\Desktop\registro-pedidos\obj\Debug\netcoreapp3.1\RegistroPedidosMVC.RazorAssemblyInfo.cs
+C:\Users\ferre\Desktop\registro-pedidos\obj\Debug\netcoreapp3.1\RegistroPedidosMVC.TagHelpers.input.cache
+C:\Users\ferre\Desktop\registro-pedidos\obj\Debug\netcoreapp3.1\RegistroPedidosMVC.TagHelpers.output.cache
+C:\Users\ferre\Desktop\registro-pedidos\obj\Debug\netcoreapp3.1\RegistroPedidosMVC.RazorCoreGenerate.cache
+C:\Users\ferre\Desktop\registro-pedidos\obj\Debug\netcoreapp3.1\Razor\Views\Home\Concluido.cshtml.g.cs
+C:\Users\ferre\Desktop\registro-pedidos\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ferre\Desktop\registro-pedidos\obj\Debug\netcoreapp3.1\Razor\Views\Home\Listar.cshtml.g.cs
+C:\Users\ferre\Desktop\registro-pedidos\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ferre\Desktop\registro-pedidos\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ferre\Desktop\registro-pedidos\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ferre\Desktop\registro-pedidos\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ferre\Desktop\registro-pedidos\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ferre\Desktop\registro-pedidos\obj\Debug\netcoreapp3.1\RegistroPedidosMVC.RazorTargetAssemblyInfo.cache
+C:\Users\ferre\Desktop\registro-pedidos\obj\Debug\netcoreapp3.1\RegistroPedidosMVC.RazorTargetAssemblyInfo.cs
+C:\Users\ferre\Desktop\registro-pedidos\obj\Debug\netcoreapp3.1\RegistroPedidosMVC.Views.pdb
+C:\Users\ferre\Desktop\registro-pedidos\obj\Debug\netcoreapp3.1\staticwebassets\RegistroPedidosMVC.StaticWebAssets.Manifest.cache
+C:\Users\ferre\Desktop\registro-pedidos\obj\Debug\netcoreapp3.1\staticwebassets\RegistroPedidosMVC.StaticWebAssets.xml
+C:\Users\ferre\Desktop\registro-pedidos\obj\Debug\netcoreapp3.1\RegistroPedidosMVC.dll
+C:\Users\ferre\Desktop\registro-pedidos\obj\Debug\netcoreapp3.1\RegistroPedidosMVC.pdb
+C:\Users\ferre\Desktop\registro-pedidos\obj\Debug\netcoreapp3.1\RegistroPedidosMVC.genruntimeconfig.cache
+C:\Users\ferre\Desktop\registro-pedidos\obj\Debug\netcoreapp3.1\RegistroPedidosMVC.csproj.CopyComplete
